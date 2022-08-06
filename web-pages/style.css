@@ -10,6 +10,13 @@
     background-size: cover;
     height: 100vh;
 }
+.about{
+    width: 100%;
+    background: #101010;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
 
 .navbar{
     width: 1200px;
@@ -126,6 +133,15 @@ ul li a:hover{
     font-family: Arial;
     letter-spacing: 1.2px;
     line-height: 30px;
+}
+.content .aboutPneumonia{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.5px;
+    line-height: 35px;
+    color: #26A69A;
+    font-size: 23px;
 }
 
 .content h1{
